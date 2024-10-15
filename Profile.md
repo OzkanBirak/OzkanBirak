@@ -2,7 +2,7 @@
 
 I am a passionate full-stack developer and founder of Bright Bits Software, driven by a curiosity for technology, leadership, and community building. With a strong background in Flutter, Dart, and C++, I enjoy creating and leading innovative software projects. Alongside my technical work, I also share insights through educational content on various platforms.
 
-![Özkan's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Özkan's Stats](https://github-readme-stats.vercel.app/api?username=OzkanBirak&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
