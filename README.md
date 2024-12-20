@@ -36,3 +36,7 @@ I am a passionate full-stack developer and founder of Bright Bits Software, driv
 - Follow my work at [Bright Bits Software](https://brightbits.software)
 
 Thanks for visiting! Feel free to reach out and let's collaborate on something exciting. 🚀
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/OzkanBirak/OzkanBirak/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
