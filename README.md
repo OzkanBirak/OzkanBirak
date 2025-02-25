@@ -2,6 +2,8 @@
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVjeDhlOGlvNGNodDBxNnV0d3Z6ZGhvZnUwMjd1NXV0NTN2bDc3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/giphy.gif"  />
 </div>
 
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVjeDhlOGlvNGNodDBxNnV0d3Z6ZGhvZnUwMjd1NXV0NTN2bDc3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/giphy.gif)
+
 ###
 
 <h1 align="left">Hi, I'm Özkan! 👋</h1>
