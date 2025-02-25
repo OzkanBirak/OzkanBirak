@@ -1,8 +1,6 @@
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVjeDhlOGlvNGNodDBxNnV0d3Z6ZGhvZnUwMjd1NXV0NTN2bDc3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif?cid=790b7611ajz6lg4egjugvz2q47s1g7ziu8cazukz4rjktab9&ep=v1_gifs_search&rid=giphy.gif&ct=gif"  />
 </div>
-
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVjeDhlOGlvNGNodDBxNnV0d3Z6ZGhvZnUwMjd1NXV0NTN2bDc3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3s6inaVnOnO6L3vbwR/giphy.gif)
 
 ###
 
@@ -18,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently leading **Bright Bits Software**, focusing on software development and community building.<br>📝 I create long-form, detailed technical content on topics ranging from programming to AI, and have been featured across platforms like Medium and Google Developer Student Clubs.<br>🌐 Actively contributing to the tech community through blog posts and educational materials.<br>✍️ Passionate about mentoring and helping others grow in their software development journey.</p>
+<p align="left">🔭 I'm currently leading Bright Bits Software, focusing on software development and community building.<br>📝 I create long-form, detailed technical content on topics ranging from programming to AI, and have been featured across platforms like Medium and Google Developer Student Clubs.<br>🌐 Actively contributing to the tech community through blog posts and educational materials.<br>✍️ Passionate about mentoring and helping others grow in their software development journey.</p>
 
 ###
 
