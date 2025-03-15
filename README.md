@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🌟 Founder and Leader of **Bright Bits Software**.<br>🏅 Led software development teams and coordinated social media at **Google Developer Student Clubs**.</p>
+<p align="left">🌟 Founder and Leader of Bright Bits Software.<br>🏅 Led software development teams and coordinated social media at Google Developer Student Clubs.</p>
 
 ###
 
